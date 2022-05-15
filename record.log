@@ -1,0 +1,7 @@
+2022-03-01 13:09:11,787 DEBUG app Thread-3 : debug log info
+2022-03-01 13:09:11,788 INFO app Thread-3 : Info log information
+2022-03-01 13:09:11,788 WARNING app Thread-3 : Warning log info
+2022-03-01 13:09:11,788 ERROR app Thread-3 : Error log info
+2022-03-01 13:09:11,788 CRITICAL app Thread-3 : Critical log info
+2022-03-01 13:09:11,788 INFO werkzeug Thread-3 : 127.0.0.1 - - [01/Mar/2022 13:09:11] "GET / HTTP/1.1" 200 -
+2022-05-14 20:15:36,708 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
