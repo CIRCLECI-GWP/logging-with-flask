@@ -11,7 +11,7 @@ Flask program for setting Logging and testing logging configuration.
 run the following command on your terminal to clone the repository:
 
 ```bash
-git clone git@github.com:mwaz/logging-with-flask.git
+git clone git@github.com:CIRCLECI-GWP/logging-with-flask.git
 
 cd logging-with-flask
 ```
