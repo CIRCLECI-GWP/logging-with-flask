@@ -1,11 +1,10 @@
 # Flask Application Logging
 
-[![CircleCI](https://circleci.com/gh/mwaz/logging-with-flask.svg?style=svg)](https://circleci.com/gh/mwaz/logging-with-flask)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/logging-with-flask.svg?style=svg)](https://github.com/CIRCLECI-GWP/logging-with-flask)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
 Flask program for setting Logging and testing logging configuration.
-
 
 ## Clone the repository:
 
@@ -30,12 +29,13 @@ pip install -r requirements.txt
 ```bash
 pytest
 ```
+
 ## Details
 
 This repo is built following a tutorial published on CircleCI blog under the CircleCI Guest Writer Program.
 
--   Blog post: [Application Logging with Flask][blog]
--   Author's GitHub profile: [Waweru Mwaura][author]
+- Blog post: [Application Logging with Flask][blog]
+- Author's GitHub profile: [Waweru Mwaura][author]
 
 ### About CircleCI Guest Writer Program
 
